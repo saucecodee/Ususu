@@ -1,0 +1,4 @@
+#50bfbf blue
+#85bf4b green
+
+linear-gradient(135deg, #08c1ef 0%, #6dcf73 100%);
